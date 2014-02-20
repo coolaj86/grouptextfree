@@ -1,3 +1,10 @@
+These aren't the droids you're looking for!
+=====
+
+You probably meant to go here <http://grouptextfree.coolaj86.com>
+
+If you know you are at the right place: read on, reader!
+
 # Group Text Free
 
 # Install & Run Demo
